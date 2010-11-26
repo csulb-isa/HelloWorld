@@ -1,5 +1,5 @@
-﻿Build started 11/25/2010 11:13:38 AM.
-     1>Project "c:\Users\Laptop\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\HelloWorld.vcxproj" on node 2 (build target(s)).
+﻿Build started 11/26/2010 12:28:55 PM.
+     1>Project "C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\HelloWorld.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\HelloWorld.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -9,7 +9,7 @@
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
-         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\laptop\documents\visual studio 2010\Projects\HelloWorld\Debug\HelloWorld.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HelloWorld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\laptop\documents\visual studio 2010\Projects\HelloWorld\Debug\HelloWorld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\laptop\documents\visual studio 2010\Projects\HelloWorld\Debug\HelloWorld.lib" /MACHINE:X86 Debug\HelloWorld.exe.embed.manifest.res
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\Debug\HelloWorld.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HelloWorld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\Debug\HelloWorld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\Debug\HelloWorld.lib" /MACHINE:X86 Debug\HelloWorld.exe.embed.manifest.res
          Debug\HelloWorld.obj
          Debug\stdafx.obj
        Manifest:
@@ -17,12 +17,12 @@
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         HelloWorld.vcxproj -> c:\users\laptop\documents\visual studio 2010\Projects\HelloWorld\Debug\HelloWorld.exe
+         HelloWorld.vcxproj -> C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\Debug\HelloWorld.exe
        FinalizeBuildStatus:
          Deleting file "Debug\HelloWorld.unsuccessfulbuild".
          Touching "Debug\HelloWorld.lastbuildstate".
-     1>Done Building Project "c:\Users\Laptop\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\HelloWorld.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\Laptop\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\HelloWorld.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.40
+Time Elapsed 00:00:01.36
