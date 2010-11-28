@@ -11,3 +11,5 @@ be towards the top of the page and the history will descend down the page.
 11-24-10:  Project is created so that the CSULB Robomagellen team can practice 
 	using a project management system.  This program has no value other than
 	the familiarity with git and its commands. sg-
+
+11-28-10:  Project was looked at by Walter - wmartinz
